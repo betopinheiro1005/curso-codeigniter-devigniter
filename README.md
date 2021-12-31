@@ -2,7 +2,7 @@
 
 ## Devigniter (Pedro Henrique)
 
-### Lista de aulas  
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=JC57hYmxQdw&list=PLXMKmVyLSPOdwdq1u_Cr1rsyHeywJawIm)  
 
 001 - Introdução e organização do projeto  
 002 - Recaptulando o produto do curso anterior  
