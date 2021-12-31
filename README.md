@@ -1,3 +1,35 @@
+# Curso de Codeigniter  
+
+## Devigniter (Pedro Henrique)
+
+### Lista de aulas  
+
+001 - Introdução e organização do projeto  
+002 - Recaptulando o produto do curso anterior  
+003 - Controle de sessão e ajustes de redirecionamento  
+004 - Projeção do Dashboard  
+005 - Barra de Navegação Navbar  
+006 - O Controller Usuário, inicio  
+007 - Exibindo Usuários  
+008 - Editando Usuários (Parte 1: Obtendo informações)  
+009 - Editando Usuários (Parte 2: Exibindo informações)  
+010 - Editando Usuários (Parte 3: Validação e persistência)  
+011 - Editando Usuários (Parte 4: Verificando erros sem cortes)  
+012 - Editando Usuários (Parte 5: Corrindo outros erros)  
+013 - Editando Usuários (Parte 6: BÔNUS Repopulando campos do formulário)  
+014 - Editando Usuários (Parte 7: FINAL Dando um Review)  
+015 - Excluindo Usuários (DELETE)  
+016 - Cadastrando Usuários - INSERT  
+017 - Configurando a Rota Default Rota Padrão  
+018 - Sistema de Templates  
+019 - Sistema de Templates FINAL  
+020 - Removendo o Menu do Login  
+021 - Upload de Arquivos - Parte 1 Pesca na Documentação  
+022 - Upload de Arquivos - Parte 2 Esboço  
+023 - Upload de Arquivos - Parte 3 Enviando os arquivos e salvando no banco  
+024 - Upload de Arquivos - Parte 4 Exibindo os arquivos enviados  
+025 - Upload de Arquivos - Parte 5 Excluindo os arquivos enviados  
+
 # I'm DevIgniter
 Curso voltado a ensinar o Framework PHP conhecido como CodeIgniter para criarmos um sistema dinâmico.
 
